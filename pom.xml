@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.crowdseats</groupId>
-	<artifactId>cs-notification-service</artifactId>
+	<artifactId>cs-payment-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cs-notification-service</name>
+	<name>cs-payment-service</name>
 	<description>analytics service for Crowd seats</description>
 	<url/>
 	<licenses>
